@@ -1,0 +1,2 @@
+router1,local_port,destination_host,management_ip,remote_port,software_version,capabilities,platform
+,GigabitEthernet0/0,router2.gns3ansible.lab,10.1.2.2,GigabitEthernet0/1,"Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(1)T, RELEASE SOFTWARE (fc1)",Router Source-Route-Bridge,Cisco 

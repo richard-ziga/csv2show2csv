@@ -1,0 +1,23 @@
+## Output of show cdp neighbors detail
+
+-------------------------
+Device ID: router2.gns3ansible.lab
+Entry address(es): 
+  IP address: 10.1.2.2
+Platform: Cisco ,  Capabilities: Router Source-Route-Bridge 
+Interface: GigabitEthernet0/0,  Port ID (outgoing port): GigabitEthernet0/1
+Holdtime : 175 sec
+
+Version :
+Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(1)T, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Fri 20-Nov-15 13:39 by prod_rel_team
+
+advertisement version: 2
+Management address(es): 
+  IP address: 10.1.2.2
+
+
+Total cdp entries displayed : 1
+

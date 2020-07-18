@@ -1,0 +1,12 @@
+{
+  "Successful": [
+    "router1",
+    "router2",
+    "router3",
+    "router5"
+  ],
+  "Failed": [
+    "router4: Connection to device timed-out: cisco_ios router4:22",
+    "router6: Connection to device timed-out: cisco_ios router6:22"
+  ]
+}

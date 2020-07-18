@@ -1,0 +1,5 @@
+router4,local_port,destination_host,management_ip,remote_port,software_version,capabilities,platform
+,GigabitEthernet0/1,router3.gns3ansible.lab,10.3.4.3,GigabitEthernet0/0,"Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(1)T, RELEASE SOFTWARE (fc1)",Router Source-Route-Bridge,Cisco 
+,GigabitEthernet0/2,router2.gns3ansible.lab,10.2.4.2,GigabitEthernet0/2,"Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(1)T, RELEASE SOFTWARE (fc1)",Router Source-Route-Bridge,Cisco 
+,GigabitEthernet0/3,router6.gns3ansible.lab,10.4.6.6,GigabitEthernet0/0,"Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(1)T, RELEASE SOFTWARE (fc1)",Router Source-Route-Bridge,Cisco 
+,GigabitEthernet0/0,router5.gns3ansible.lab,10.4.5.5,GigabitEthernet0/1,"Cisco IOS Software, IOSv Software (VIOS-ADVENTERPRISEK9-M), Version 15.6(1)T, RELEASE SOFTWARE (fc1)",Router Source-Route-Bridge,Cisco 
